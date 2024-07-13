@@ -22,7 +22,7 @@ A simple sand simulation implemented using Python and Pygame, with dynamic color
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/sand-simulation.git
+   git clone https://github.com/OmkarJadhav2020/Sand-Simulation.git
    cd sand-simulation
    ```
 2. Run the simulation:
@@ -71,7 +71,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Watch the demo video below to see the sand simulation in action:
 
+![1720889865756](image/README/1720889865756.gif)
+
 [![Sand Simulation Video](https://img.youtube.com/vi/hHPicUZk6TY/0.jpg)	](https://www.youtube.com/watch?v=hHPicUZk6TY)
+
 
 ---
 
